@@ -63,7 +63,7 @@ A simple desktop GUI application to download songs, albums, and playlists from S
    ```
    Click the **"1. Install FFmpeg"** button and wait for the process to finish in the logs. This is required for converting audio to MP3.
 
-3. **Bypass YouTube bot detection (Required):**
+3. **Bypass YouTube bot detection **
    * Install the [Get cookies.txt LOCALLY](https://microsoftedge.microsoft.com/addons/detail/get-cookiestxt-locally/helblmgegdgppdaolonigpebdmdehada) extension in Edge or Chrome.
    * Open [youtube.com](https://www.youtube.com) and ensure you are logged in.
    * Click the extension icon, choose **Export**, and save the `cookies.txt` file.
